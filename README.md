@@ -15,9 +15,7 @@ npx http-server . -p 4173
 ## 内容维护
 
 - 页面配置：contents/config.yml
-- 个人介绍：contents/home.md
-- 教育与技能：contents/education.md、contents/skills.md
-- 项目与奖项：contents/publications.md、contents/awards.md
-- 综合经历：contents/experience.md
+- 个人资料、教育、技能与经历：contents/home.md
+- 科创项目：contents/publications.md
+- 竞赛与荣誉：contents/awards.md
 - 图片资源：static/assets/
-

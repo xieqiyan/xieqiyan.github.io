@@ -1,10 +1,10 @@
 title: 谢奇妍 | 计算机科学与技术
 page-top-title: 谢奇妍
-top-section-bg-text: ''
+top-section-bg-text: EMBEDDED SYSTEMS
 backgrounds:
   - static/assets/background/embedded-systems.jpg
 background-interval-ms: 9000
-background-overlay: 0
+background-overlay: 0.52
 copyright-text: '&copy; 谢奇妍 2026. All Rights Reserved.'
 github-link:
   text: GitHub
@@ -12,31 +12,16 @@ github-link:
 license-link:
   text: License
   href: https://github.com/xieqiyan/xieqiyan.github.io/blob/main/LICENSE
-hero-name: 谢奇妍
-hero-role: 计算机科学与技术 · 嵌入式与智能系统
-hero-summary: 计算机科学与技术专业本科生
 sections:
   - id: home
-    nav: 关于我
-    title: 关于我
+    nav: HOME
+    title: 谢奇妍 | XIE QIYAN
     href: '#page-top'
-  - id: education
-    nav: 教育背景
-    title: 教育背景
-    icon: bi-mortarboard-fill
-  - id: skills
-    nav: 专业技能
-    title: 专业技能
-    icon: bi-cpu-fill
   - id: publications
-    nav: 科创经历
-    title: 科创经历
+    nav: PUBLICATIONS
+    title: PUBLICATIONS
     icon: bi-file-text-fill
   - id: awards
-    nav: 科技竞赛
-    title: 科技竞赛
+    nav: AWARDS
+    title: AWARDS
     icon: bi-award-fill
-  - id: experience
-    nav: 综合经历
-    title: 综合经历
-    icon: bi-people-fill
