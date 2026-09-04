@@ -1,28 +1,42 @@
-title: Sen Li's Homepage
-page-top-title: Sen Li
-top-section-bg-text: Data Science
+title: 谢奇妍 | 计算机科学与技术
+page-top-title: 谢奇妍
+top-section-bg-text: EMBEDDED SYSTEMS
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
-background-interval-ms: 7000
-background-overlay: 0.52
-copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
+  - static/assets/background/embedded-systems.jpg
+background-interval-ms: 9000
+background-overlay: 0.72
+copyright-text: '&copy; 谢奇妍 2026. All Rights Reserved.'
 github-link:
-  text: Github
-  href: https://github.com/senli1073
+  text: GitHub
+  href: https://github.com/xieqiyan
 license-link:
   text: License
-  href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
+  href: https://github.com/xieqiyan/xieqiyan.github.io/blob/main/LICENSE
+hero-name: 谢奇妍
+hero-role: 计算机科学与技术 · 嵌入式与智能系统
+hero-summary: 专注于工业视觉、嵌入式通信与智能软件系统的设计与实现
 sections:
   - id: home
-    nav: HOME
-    title: Sen Li&ensp;|&ensp;李森
-    href: '#page-top' # Default to '#<id>' if not specified
+    nav: 关于我
+    title: 关于我
+    href: '#page-top'
+  - id: education
+    nav: 教育背景
+    title: 教育背景
+    icon: bi-mortarboard-fill
+  - id: skills
+    nav: 专业技能
+    title: 专业技能
+    icon: bi-cpu-fill
   - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+    nav: 科创经历
+    title: 科创经历
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
-    title: AWARDS
+    nav: 科技竞赛
+    title: 科技竞赛
     icon: bi-award-fill
+  - id: experience
+    nav: 综合经历
+    title: 综合经历
+    icon: bi-people-fill

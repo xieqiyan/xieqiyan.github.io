@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">谢奇妍</title>
+  <desc id="desc">谢奇妍的个人身份标记</desc>
+  <rect width="400" height="400" fill="#e56b45"/>
+  <path d="M0 292C90 248 144 292 214 258s122-32 186 0v142H0z" fill="#172126" opacity=".18"/>
+  <text x="200" y="190" fill="#fff" font-family="Microsoft YaHei, sans-serif" font-size="112" font-weight="800" text-anchor="middle">谢</text>
+  <text x="200" y="300" fill="#fff" font-family="Microsoft YaHei, sans-serif" font-size="54" letter-spacing="12" text-anchor="middle">QIYAN</text>
+</svg>

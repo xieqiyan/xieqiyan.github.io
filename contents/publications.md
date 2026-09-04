@@ -1,14 +1,5 @@
-#### Published
-
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu (2026). Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Scientific Reports</strong>. [[Paper]](https://doi.org/10.1038/s41598-026-57601-3) [[Code]](https://github.com/senli1073/LaNCor)
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+<div class="project-grid">
+  <article class="project-card project-card-featured"><div class="project-top"><span>2026.04 — 2026.05</span><span class="project-tag">工业视觉</span></div><h3>基于 2D/3D 工业视觉与深度学习的 PCB 缺陷检测及精密测量系统</h3><p>负责 PCB 样本整理、缺陷标注与定向裁剪，完成像素、毫米及深度信息标定；搭建缺失、装反和表面缺陷检测流程，并使用 3D 基准面测高与亚像素找线 / 找圆完成 PIN 针位置度及关键尺寸测量。</p><strong>中国机器人及人工智能大赛 · 国家级三等奖</strong></article>
+  <article class="project-card"><div class="project-top"><span>2025.10 — 2026.05</span><span class="project-tag">无线充电</span></div><h3>基于双云台动态耦合的移动机器人在线激光无线充电系统</h3><p>设计“粗定位—姿态稳定—光斑寻心”三级控制流程，完成光电转换、稳压充电、温度 / 脱轨检测和多设备请求仲裁方案。</p><strong>获得软件著作权一项</strong></article>
+  <article class="project-card"><div class="project-top"><span>2026.06 — 至今</span><span class="project-tag">智能医疗</span></div><h3>基于 nRF52840 与知识图谱的智能中医辨证及自适应电疗系统</h3><p>整理 67 类中医证型规则，结合 Python、LLM 与 Neo4j 构建“证型—治法—穴位”推导流程；基于 Spring Boot + MySQL 跑通 App / Web 软件流程，持续推进 BLE 软硬件联调。</p><strong>软件侧流程已完成验证</strong></article>
+</div>
