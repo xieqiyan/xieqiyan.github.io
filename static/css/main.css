@@ -546,3 +546,156 @@ footer a:hover { color: var(--accent); }
     .skill-grid { grid-template-columns: 1fr; }
     .project-card-featured { grid-row: auto; }
 }
+
+/* Plain resume layout */
+body {
+    background: #fff;
+    color: #111;
+    font-family: Arial, "Microsoft YaHei", sans-serif;
+}
+
+#mainNav {
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+    box-shadow: none !important;
+    backdrop-filter: none;
+}
+
+#mainNav .navbar-brand,
+#mainNav .navbar-nav .nav-item .nav-link,
+#mainNav .navbar-toggler {
+    color: #111;
+}
+
+#mainNav .navbar-brand { font-family: Arial, "Microsoft YaHei", sans-serif; font-size: 1.05rem; letter-spacing: 0; }
+#mainNav .navbar-nav .nav-item .nav-link { font-size: 0.9rem; letter-spacing: 0; font-weight: 400; }
+#mainNav .navbar-nav .nav-item .nav-link:hover,
+#mainNav .navbar-nav .nav-item .nav-link.active { color: #111; text-decoration: underline; }
+
+.top-section {
+    background: #fff;
+    height: auto;
+    min-height: 0;
+    overflow: visible;
+    padding: 8rem 0 2rem;
+}
+
+.site-loading .top-section {
+    background: #fff !important;
+}
+
+.site-loading .top-section::before,
+.site-loading .top-section::after {
+    display: none !important;
+}
+
+.top-section-bg,
+.top-section:before,
+.top-section:after,
+.top-section-bg-text,
+#top-section-bg-text,
+#avatar,
+.hero-watermark,
+.hero-kicker,
+.hero-scroll {
+    display: none !important;
+}
+
+.top-section .top-section-content,
+.hero-container { display: block; min-height: 0; }
+.hero-copy { max-width: none; }
+.hero-copy h1 { color: #111; font-family: Arial, "Microsoft YaHei", sans-serif; font-size: 3rem; font-weight: 700; letter-spacing: 0; line-height: 1.2; margin: 0 0 0.5rem; }
+.hero-role { color: #111; font-size: 1.2rem; font-weight: 400; margin: 0 0 0.4rem; }
+.hero-summary { color: #444; font-size: 1rem; line-height: 1.7; margin: 0; }
+
+section,
+section:nth-child(odd),
+section:nth-child(even),
+.bg-gradient-primary-to-secondary-light,
+.bg-gradient-primary-to-secondary-gray {
+    background: #fff !important;
+    padding: 2rem 0;
+}
+
+section header h2 {
+    border-bottom: 2px solid #111;
+    color: #111;
+    font-family: Arial, "Microsoft YaHei", sans-serif !important;
+    font-size: 1.65rem;
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0 0 1.2rem;
+    padding-bottom: 0.4rem;
+}
+
+section header h2 .bi { display: none; }
+section .main-body { color: #222; font-size: 1rem; font-weight: 400; line-height: 1.8; }
+
+.main-body p { margin: 0 0 0.9rem; }
+.main-body ul { margin: 0 0 1rem; padding-left: 1.35rem; }
+.main-body li { margin-bottom: 0.55rem; padding-left: 0.15rem; }
+.main-body h4 { color: #111; font-family: Arial, "Microsoft YaHei", sans-serif; font-size: 1.12rem; font-weight: 700; line-height: 1.5; margin: 1.5rem 0 0.45rem; }
+.main-body strong { color: #111; font-weight: 700; }
+.main-body a { color: #111; text-decoration: underline; }
+
+.intro-layout,
+.education-list,
+.skill-grid,
+.project-grid,
+.award-list,
+.experience-layout {
+    display: block;
+}
+
+.profile-facts,
+.contact-row,
+.education-item,
+.skill-group,
+.project-card,
+.award-item,
+.experience-list,
+.experience-list li {
+    display: block;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    padding: 0;
+    margin: 0 0 0.7rem;
+}
+
+.profile-facts { border-top: 1px solid #ddd; padding-top: 1rem; margin-top: 1.5rem; }
+.profile-facts div { display: block; margin-bottom: 0.4rem; }
+.profile-facts span, .profile-facts small, .profile-facts strong { color: #222; font-size: 1rem; display: inline; margin-right: 0.6rem; }
+.profile-facts strong { font-weight: 700; }
+.profile-facts small { color: #555; }
+.contact-row { border-top: 1px solid #ddd; padding-top: 0.9rem; }
+.contact-link { color: #111; display: inline; font-size: 0.95rem; margin-right: 1.4rem; }
+.contact-link i { display: none; }
+.eyebrow, .timeline-mark, .skill-index, .item-meta, .project-top, .project-tag, .award-level { display: none; }
+.intro-layout h3, .experience-layout h3 { color: #111; font-family: Arial, "Microsoft YaHei", sans-serif; font-size: 1.15rem; font-weight: 700; margin: 0 0 0.6rem; }
+.education-list { border: 0; padding: 0; }
+.education-item h3, .skill-group h3, .project-card h3 { color: #111; font-family: Arial, "Microsoft YaHei", sans-serif; font-size: 1.12rem; font-weight: 700; margin: 1.1rem 0 0.35rem; }
+.education-item:first-child h3 { margin-top: 0; }
+.education-item p, .skill-group p, .project-card p, .award-item p { margin-bottom: 0.45rem; }
+.muted { color: #444; font-size: 1rem; }
+.skill-group { margin-bottom: 0.8rem; }
+.skill-group h3 { display: inline; margin-right: 0.4rem; }
+.skill-group p { display: inline; }
+.project-card { border-bottom: 1px solid #ddd; padding-bottom: 1.2rem; margin-bottom: 1.2rem; }
+.project-card:last-child { border-bottom: 0; }
+.project-card strong { color: #111; display: block; font-size: 1rem; margin-top: 0.4rem; padding: 0; }
+.award-item p { display: list-item; list-style: disc; margin-left: 1.35rem; padding-left: 0.15rem; }
+.experience-layout > div { margin-bottom: 1rem; }
+.experience-list { border-top: 0; }
+.experience-list li { border-bottom: 0; margin-bottom: 0.65rem; }
+.experience-list strong { display: inline; margin-right: 0.4rem; }
+.experience-list span { color: #222; display: inline; }
+.bg-bottom { background: #111; }
+footer { padding: 1.5rem 0 !important; }
+
+@media (max-width: 767px) {
+    .top-section { padding-top: 6rem; }
+    .hero-copy h1 { font-size: 2.35rem; }
+    section { padding: 1.7rem 0 !important; }
+    .container { padding-left: 1.25rem !important; padding-right: 1.25rem !important; }
+}
