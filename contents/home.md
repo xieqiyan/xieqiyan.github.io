@@ -7,19 +7,18 @@
 - 邮箱：3585385257@qq.com
 - 电话：17637329346
 - 籍贯：河南省
-- GitHub：<https://github.com/xieqiyan>
 
 #### Education
 
-<img class="school-logo" src="images/校徽.png" alt="沈阳航空航天大学校徽">
+<img class="school-logo" src="images/校徽.png" alt="沈阳航空航天大学校徽">（[学校官网](https://www.sau.edu.cn/)）
 
-沈阳航空航天大学（[学校官网](https://www.sau.edu.cn/)）
+沈阳航空航天大学
 
-- 计算机科学与技术，本科，2023 — 至今
-- 专业排名：12 / 140（前 8.5%）
+- 计算机学院 计算机科学与技术专业
+- 专业排名：12 / 139（前 8.6%）　<a href="document/保研绩点最终版%20.pdf" target="_blank" rel="noopener">（查看证明）</a>
 - 平均绩点：7.51 / 10
 - 英语水平：CET-6 487　<a href="images/六级证书.png" target="_blank" rel="noopener">查看证书</a>
-- 奖学金：综合一等奖学金 1 次，二等奖学金 3 次
+- 奖学金：综合一等奖学金 1 次，二等奖学金 3 次　<a href="scholarships.html" target="_blank" rel="noopener">查看证书</a>
 - 主修课程：电路（94）、电子技术（91）、计算机组成原理（92）、数据结构与算法（91）、软件工程（92）
 - 课程设计：单片机系统、操作系统、数据结构课程设计均获“优秀”
 
