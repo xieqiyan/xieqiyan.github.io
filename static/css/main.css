@@ -315,6 +315,13 @@ section .main-body {
     color: var(--bs-blue);
 }
 
+.main-body .school-logo {
+    display: block;
+    height: 72px;
+    margin: 0 0 0.55rem;
+    width: 72px;
+}
+
 .bg-bottom {
     background: #222;
 }

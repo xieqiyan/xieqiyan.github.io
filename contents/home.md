@@ -11,10 +11,14 @@
 
 #### Education
 
-- 沈阳航空航天大学，计算机科学与技术，本科，2022 — 至今
+<img class="school-logo" src="images/校徽.png" alt="沈阳航空航天大学校徽">
+
+沈阳航空航天大学（[学校官网](https://www.sau.edu.cn/)）
+
+- 计算机科学与技术，本科，2022 — 至今
 - 专业排名：12 / 140（前 8.5%）
 - 平均绩点：7.51 / 10
-- 英语水平：CET-6 487
+- 英语水平：CET-6 487　<a href="images/六级证书.png" target="_blank" rel="noopener">查看证书</a>
 - 奖学金：综合一等奖学金 1 次，二等奖学金 3 次
 - 主修课程：电路（94）、电子技术（91）、计算机组成原理（92）、数据结构与算法（91）、软件工程（92）
 - 课程设计：单片机系统、操作系统、数据结构课程设计均获“优秀”
@@ -35,7 +39,7 @@
 
 - 《程序设计基础》实验课程助教：负责实验指导与代码答疑
 - 院学生会文艺部副部长
-- 2024 NGDN 国际学术会议志愿者
-- 校“三好学生”
-- 校“优秀共青团干部”
-- 院“团学组织先进个人”
+- 2024 NGDN 国际学术会议志愿者　<a href="images/5666c024ad4e71ded5edc5e35a05a288.jpg" target="_blank" rel="noopener">查看证书</a>
+- 校“三好学生”　<a href="images/三好.jpg" target="_blank" rel="noopener">查看证书</a>
+- 校“优秀共青团干部”　<a href="images/65c8dc54ddcb83ed50602a0937a386f4.jpg" target="_blank" rel="noopener">查看证书</a>
+- 院“团学组织先进个人”　<a href="images/da6572bd5e75f40a268869a091ec0fc2.jpg" target="_blank" rel="noopener">查看证书</a>
