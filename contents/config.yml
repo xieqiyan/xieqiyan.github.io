@@ -18,10 +18,10 @@ sections:
     title: 谢奇妍 | XIE QIYAN
     href: '#page-top'
   - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
+    nav: 科创经历
+    title: 科创经历
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
-    title: AWARDS
+    nav: 竞赛获奖
+    title: 竞赛获奖
     icon: bi-award-fill

@@ -1,8 +1,8 @@
-- 中国机器人及人工智能大赛：国家级三等奖　<a href="images/国省/【26.7】中国机器人及人工智能大赛国家级三等奖.png" target="_blank" rel="noopener">查看证书</a>
-- 蓝桥杯（C/C++ 程序设计）：省级一等奖　<a href="images/国省/【26.5.8】蓝桥杯C-C++程序设计省级一等奖.jpg" target="_blank" rel="noopener">查看证书</a>
-- 全国大学生数学建模竞赛：省级二等奖　<a href="images/国省/【25.10】全国大学生数学建模省级二等奖.jpg" target="_blank" rel="noopener">查看证书</a>
-- 中国高校计算机大赛·团体程序设计天梯赛：省级二等奖　<a href="images/国省/【26.5.6】2026团体程序设计天梯赛团队省级二等奖.png" target="_blank" rel="noopener">查看证书</a>
-- 计算机设计大赛：省级三等奖　<a href="images/国省/【26.6】计算机设计竞赛省级三等奖.png" target="_blank" rel="noopener">查看证书</a>
-- ACM/ICPC 辽宁省赛：省级三等奖　<a href="images/国省/【25.11】ACM ICPC省级三等奖.jpg" target="_blank" rel="noopener">查看证书</a>
-- 外研社国才杯英语辩论赛：校级二等奖　<a href="images/校赛/31817c93e5f0ca9d5b5ddc5b969a6b50.jpg" target="_blank" rel="noopener">查看证书</a>
-- 外研社国才杯外语能力大赛口译赛项：校级二等奖　<a href="images/校赛/d7211c06be74e650077836a7d547918b.jpg" target="_blank" rel="noopener">查看证书</a>
+- 中国机器人及人工智能大赛：国家级三等奖　<a class="certificate-link" href="images/国省/【26.7】中国机器人及人工智能大赛国家级三等奖.png" target="_blank" rel="noopener">查看证书</a>
+- 蓝桥杯（C/C++ 程序设计）：省级一等奖　<a class="certificate-link" href="images/国省/【26.5.8】蓝桥杯C-C++程序设计省级一等奖.jpg" target="_blank" rel="noopener">查看证书</a>
+- 全国大学生数学建模竞赛：省级二等奖　<a class="certificate-link" href="images/国省/【25.10】全国大学生数学建模省级二等奖.jpg" target="_blank" rel="noopener">查看证书</a>
+- 中国高校计算机大赛·团体程序设计天梯赛：省级二等奖　<a class="certificate-link" href="images/国省/【26.5.6】2026团体程序设计天梯赛团队省级二等奖.png" target="_blank" rel="noopener">查看证书</a>
+- 计算机设计大赛：省级三等奖　<a class="certificate-link" href="images/国省/【26.6】计算机设计竞赛省级三等奖.png" target="_blank" rel="noopener">查看证书</a>
+- ACM/ICPC 辽宁省赛：省级三等奖　<a class="certificate-link" href="images/国省/【25.11】ACM ICPC省级三等奖.jpg" target="_blank" rel="noopener">查看证书</a>
+- 外研社国才杯英语辩论赛：校级二等奖　<a class="certificate-link" href="images/校赛/31817c93e5f0ca9d5b5ddc5b969a6b50.jpg" target="_blank" rel="noopener">查看证书</a>
+- 外研社国才杯外语能力大赛口译赛项：校级二等奖　<a class="certificate-link" href="images/校赛/d7211c06be74e650077836a7d547918b.jpg" target="_blank" rel="noopener">查看证书</a>

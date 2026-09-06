@@ -315,6 +315,30 @@ section .main-body {
     color: var(--bs-blue);
 }
 
+.main-body a.certificate-link,
+.main-body a.certificate-link:visited {
+    display: inline-block;
+    margin-inline-start: 0.35rem;
+    padding: 0.14rem 0.55rem;
+    border: 1px solid #d1d1d1;
+    border-radius: 0.35rem;
+    background: #e7e7e7;
+    color: #555;
+    font-size: 0.86em;
+    line-height: 1.35;
+    text-decoration: none;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.main-body a.certificate-link:hover,
+.main-body a.certificate-link:focus-visible {
+    border-color: #b7b7b7;
+    background: #d8d8d8;
+    color: #222;
+    text-decoration: none;
+}
+
 .main-body .school-logo {
     display: block;
     height: 72px;
@@ -332,6 +356,52 @@ footer {
 
 footer a:hover {
     color: #fff;
+}
+
+.certificate-page {
+    background: #fff;
+}
+
+.certificate-container {
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 5rem 1.5rem 3rem;
+}
+
+.certificate-container h1 {
+    color: #111;
+    font-family: Arial, "Microsoft YaHei", sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+}
+
+.certificate-container p {
+    margin-bottom: 2rem;
+}
+
+.certificate-gallery {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.certificate-gallery figure {
+    margin: 0;
+}
+
+.certificate-gallery img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    border: 1px solid #ddd;
+}
+
+.certificate-gallery figcaption {
+    color: #222;
+    font-size: 0.95rem;
+    margin-top: 0.55rem;
+    text-align: center;
 }
 
 @media (max-width: 991px) {
@@ -362,6 +432,14 @@ footer a:hover {
     .container {
         padding-left: 1.25rem !important;
         padding-right: 1.25rem !important;
+    }
+
+    .certificate-container {
+        padding: 4rem 1.25rem 2rem;
+    }
+
+    .certificate-gallery {
+        grid-template-columns: 1fr;
     }
 }
 
