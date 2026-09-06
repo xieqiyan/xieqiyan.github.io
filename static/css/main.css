@@ -216,6 +216,7 @@ body {
 }
 
 #avatar {
+    display: none;
     position: relative;
     height: 0;
     top: min(-65px, max(-100px, calc(-1*100vw/12)));
@@ -339,6 +340,36 @@ section .main-body {
     text-decoration: none;
 }
 
+.profile-intro {
+    display: grid;
+    align-items: start;
+    gap: 2.2rem;
+    grid-template-columns: minmax(0, 1fr) 154px;
+    margin-bottom: 1.8rem;
+}
+
+.profile-intro-copy p:last-child {
+    margin-bottom: 0;
+}
+
+.profile-photo-block {
+    justify-self: end;
+    margin: 0;
+    width: 154px;
+}
+
+.profile-photo {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    border: 1px solid #d7d7d7;
+    border-radius: 0.4rem;
+    background: #fff;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+    object-fit: cover;
+    padding: 3px;
+}
+
 .main-body .school-logo {
     display: block;
     height: 72px;
@@ -419,6 +450,15 @@ footer a:hover {
 
     .top-section h2 {
         font-size: 2.3rem;
+    }
+
+    .profile-intro {
+        gap: 1rem;
+        grid-template-columns: minmax(0, 1fr) 112px;
+    }
+
+    .profile-photo-block {
+        width: 112px;
     }
 
     #sections > section {
