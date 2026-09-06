@@ -7,10 +7,12 @@
 在项目根目录启动任意静态服务器，例如：
 
 ~~~bash
-npx http-server . -p 4173
+npx http-server . -p 4173 -c-1
 ~~~
 
 然后访问 http://127.0.0.1:4173。
+
+请通过本地服务器访问，不要直接双击打开 index.html；否则浏览器可能阻止页面读取 YAML 和 Markdown 内容。
 
 ## 内容维护
 
